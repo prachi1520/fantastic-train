@@ -1,0 +1,84 @@
+
+  <div class="chat">
+    <div class="device j5">
+      <div class="screen">
+        <div class="container">
+                 <header>
+      <div class="u-details">
+        <img
+        alt="gravatier"
+          class="dep"
+          src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANdGcQano_sjdfQ7dXjPwjr9riVxMwsePJzn8NAaQlZ1gZoavLc_CL9&s'
+        />
+        <div class="detail-text">
+          <span class="username">
+           Akbar
+           <div class='status'></div>
+          </span>
+         
+        </div>
+      </div>
+      <div class="chatting-options">
+        <span>  <i class="fa fa-info-circle"></i></span>
+        <span> <i class="fa fa-bell"></i> </span>
+        <span> <i class="fa fa-bars"></i> </span>
+      </div>
+    </header>
+<div class="chatting-screen">
+<div class="sidebar">
+
+   <ul class="activeRooms">
+       <h3>All Active Rooms</h3>
+       <li>
+           <div class="groupImage"></div>
+           <span class="groupName">Martial Group</span>
+           <span>45</span>
+       </li>
+       <li>
+       <div class="groupImage"></div>
+           <span>Martial Group</span>
+           <span>45</span>
+       </li>
+       <li>
+       <div class="groupImage"></div>
+           <span>Martial Group</span>
+           <span>45</span>
+       </li>
+ </ul> 
+</div> 
+
+ <div class="chat">
+
+ <div class="container fixed rev">
+  <ul class="message-body">
+     
+    </ul>
+   
+</div>
+
+ <footer>
+              <div class="bottom">
+                <form class="form">
+                  <div class="sendMessage">
+                    <button  class="attachment"><i class="fas  fa-paperclip"></i></button>
+                    <textarea
+                      id="text"
+                      name=""
+                      cols="20"
+                      rows="3"
+                      placeholder="please enter your message"
+                    >
+                    </textarea>
+                    <button class="send"><i class="fa   fa-paper-plane"></i></button>
+                  </div>
+                </form>
+              </div>
+            </footer>
+
+ </div> 
+     </div>
+    </div>
+  </div>
+    </div>
+</div>
+  
